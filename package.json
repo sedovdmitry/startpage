@@ -1,0 +1,22 @@
+{
+  "name": "startpage",
+  "version": "0.1.0",
+  "description": "tobusiness.ru start page",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedovdmitry/startpage.git"
+  },
+  "author": "Dmitry Sedov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedovdmitry/startpage/issues"
+  },
+  "homepage": "https://github.com/sedovdmitry/startpage#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.2.0"
+  }
+}
